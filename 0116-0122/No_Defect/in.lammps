@@ -1,0 +1,58 @@
+log log.P$P_T$T
+
+atom_style atomic 
+units metal
+boundary p p p 
+#atom_modify sort 0 0.0 
+newton on 
+
+read_data data.lammps 
+replicate 10 10 20
+
+### interactions
+
+pair_style flare 
+pair_coeff * * lmp.flare 
+
+# compute unc all flare/std/atom L_inv_lmp.flare sparse_desc_lmp.flare
+# compute MaxUnc all reduce max c_unc
+
+mass 1 12.011000 
+mass 2 28.085000 
+
+thermo_style custom step temp press cpu pxx pyy pzz pxy pxz pyz ke pe etotal vol lx ly lz atoms    #c_MaxUnc
+thermo 1000
+timestep 0.0005
+restart 100000 restart_*.dat
+
+#################### Equilibrate at P and T_es ##############################
+velocity all create $T 41928459 rot yes dist gaussian
+fix mom all momentum 1000 linear 1 1 1 angular
+
+fix 1 all npt temp $T $T $(100.0*dt) iso $P $P $(1000.0*dt)
+dump 1 all custom 1000 1equil.bin id type x y z vx vy vz
+run   10000 # report performance
+run  990000
+unfix 1
+undump 1
+
+#################### Fix half atoms along z-axis, heat the other half #################
+region middle block INF INF INF INF 22.0 66.0
+group mobile region middle
+fix 2 mobile npt temp $T 5000 $(100.0*dt) z $P $P $(1000.0*dt) 
+dump 2 all custom 1000 2heathalf.bin id type x y z vx vy vz
+run  1000000
+unfix 2
+undump 2
+
+#################### Cool down the hot half to T_es ##############################
+fix 3 mobile npt temp 5000 $T $(100.0*dt) z $P $P $(1000.0*dt) 
+dump 3 all custom 1000 3coolhalf.bin id type x y z vx vy vz
+run  1000000
+unfix 3
+undump 3
+
+#################### Whole system relax in the nph ensemble at P ######################
+fix 4 all nph iso $P $P $(1000.0*dt)
+dump 4 all custom 1000 4nph.bin id type x y z vx vy vz
+run 1000000
