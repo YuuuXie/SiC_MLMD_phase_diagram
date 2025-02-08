@@ -1,5 +1,6 @@
 # SiC phase diagram from machine learning molecular dynamics
-This repo includes code for running and analyzing molecular dynamics simulations for SiC.
+This repo includes code for running and analyzing high temperature high pressure molecular dynamics simulations for SiC. It includes some analysis and visualization code for the paper.
+The complete dataset is uploaded on Zenodo: 10.5281/zenodo.14648292
 
 ## Dependencies
 
