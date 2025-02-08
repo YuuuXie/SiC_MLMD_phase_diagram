@@ -16,3 +16,6 @@ The spatial correlation calculation was computed from voxel density, which is ob
 ## Files
 
 `Plot.ipynb`: the notebook for making figures in the manuscript.
+
+`lmp.flare`: the MLFF coefficient file used by LAMMPS to run MD simulations.
+
