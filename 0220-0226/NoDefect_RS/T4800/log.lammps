@@ -1,0 +1,9 @@
+LAMMPS (23 Jun 2022 - Update 1)
+KOKKOS mode is enabled (src/KOKKOS/kokkos.cpp:105)
+  will use up to 1 GPU(s) per node
+  using 8 OpenMP thread(s) per MPI task
+package kokkos
+package kokkos newton on neigh full
+log log.P$P_T$T
+log log.P900000_T$T
+log log.P900000_T4800
