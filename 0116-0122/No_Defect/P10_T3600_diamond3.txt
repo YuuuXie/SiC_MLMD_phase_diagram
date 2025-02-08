@@ -1,0 +1,909 @@
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7986 
+"Cubic diamond" 5835 
+"Cubic diamond (1st neighbor)" 1494 
+"Cubic diamond (2nd neighbor)" 685 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7977 
+"Cubic diamond" 5858 
+"Cubic diamond (1st neighbor)" 1486 
+"Cubic diamond (2nd neighbor)" 679 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7979 
+"Cubic diamond" 5852 
+"Cubic diamond (1st neighbor)" 1461 
+"Cubic diamond (2nd neighbor)" 708 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7994 
+"Cubic diamond" 5862 
+"Cubic diamond (1st neighbor)" 1468 
+"Cubic diamond (2nd neighbor)" 676 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7992 
+"Cubic diamond" 5859 
+"Cubic diamond (1st neighbor)" 1465 
+"Cubic diamond (2nd neighbor)" 684 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7968 
+"Cubic diamond" 5842 
+"Cubic diamond (1st neighbor)" 1491 
+"Cubic diamond (2nd neighbor)" 699 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7973 
+"Cubic diamond" 5832 
+"Cubic diamond (1st neighbor)" 1494 
+"Cubic diamond (2nd neighbor)" 701 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7978 
+"Cubic diamond" 5824 
+"Cubic diamond (1st neighbor)" 1506 
+"Cubic diamond (2nd neighbor)" 692 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7968 
+"Cubic diamond" 5857 
+"Cubic diamond (1st neighbor)" 1496 
+"Cubic diamond (2nd neighbor)" 679 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 8014 
+"Cubic diamond" 5821 
+"Cubic diamond (1st neighbor)" 1478 
+"Cubic diamond (2nd neighbor)" 687 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7991 
+"Cubic diamond" 5837 
+"Cubic diamond (1st neighbor)" 1492 
+"Cubic diamond (2nd neighbor)" 680 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 8003 
+"Cubic diamond" 5864 
+"Cubic diamond (1st neighbor)" 1454 
+"Cubic diamond (2nd neighbor)" 679 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7986 
+"Cubic diamond" 5821 
+"Cubic diamond (1st neighbor)" 1498 
+"Cubic diamond (2nd neighbor)" 695 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7972 
+"Cubic diamond" 5827 
+"Cubic diamond (1st neighbor)" 1496 
+"Cubic diamond (2nd neighbor)" 705 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7972 
+"Cubic diamond" 5887 
+"Cubic diamond (1st neighbor)" 1469 
+"Cubic diamond (2nd neighbor)" 672 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7975 
+"Cubic diamond" 5839 
+"Cubic diamond (1st neighbor)" 1491 
+"Cubic diamond (2nd neighbor)" 695 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7960 
+"Cubic diamond" 5880 
+"Cubic diamond (1st neighbor)" 1484 
+"Cubic diamond (2nd neighbor)" 676 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7979 
+"Cubic diamond" 5893 
+"Cubic diamond (1st neighbor)" 1458 
+"Cubic diamond (2nd neighbor)" 670 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7986 
+"Cubic diamond" 5883 
+"Cubic diamond (1st neighbor)" 1469 
+"Cubic diamond (2nd neighbor)" 662 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7966 
+"Cubic diamond" 5885 
+"Cubic diamond (1st neighbor)" 1474 
+"Cubic diamond (2nd neighbor)" 675 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7974 
+"Cubic diamond" 5923 
+"Cubic diamond (1st neighbor)" 1457 
+"Cubic diamond (2nd neighbor)" 646 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7962 
+"Cubic diamond" 5931 
+"Cubic diamond (1st neighbor)" 1457 
+"Cubic diamond (2nd neighbor)" 650 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7970 
+"Cubic diamond" 5937 
+"Cubic diamond (1st neighbor)" 1444 
+"Cubic diamond (2nd neighbor)" 649 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7965 
+"Cubic diamond" 5870 
+"Cubic diamond (1st neighbor)" 1477 
+"Cubic diamond (2nd neighbor)" 688 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7940 
+"Cubic diamond" 5918 
+"Cubic diamond (1st neighbor)" 1470 
+"Cubic diamond (2nd neighbor)" 672 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7972 
+"Cubic diamond" 5945 
+"Cubic diamond (1st neighbor)" 1436 
+"Cubic diamond (2nd neighbor)" 647 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7987 
+"Cubic diamond" 5912 
+"Cubic diamond (1st neighbor)" 1441 
+"Cubic diamond (2nd neighbor)" 660 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7980 
+"Cubic diamond" 5953 
+"Cubic diamond (1st neighbor)" 1403 
+"Cubic diamond (2nd neighbor)" 664 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7969 
+"Cubic diamond" 5940 
+"Cubic diamond (1st neighbor)" 1440 
+"Cubic diamond (2nd neighbor)" 651 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7956 
+"Cubic diamond" 5922 
+"Cubic diamond (1st neighbor)" 1466 
+"Cubic diamond (2nd neighbor)" 656 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7934 
+"Cubic diamond" 5907 
+"Cubic diamond (1st neighbor)" 1482 
+"Cubic diamond (2nd neighbor)" 677 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7952 
+"Cubic diamond" 5895 
+"Cubic diamond (1st neighbor)" 1479 
+"Cubic diamond (2nd neighbor)" 674 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7950 
+"Cubic diamond" 5937 
+"Cubic diamond (1st neighbor)" 1456 
+"Cubic diamond (2nd neighbor)" 657 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7934 
+"Cubic diamond" 5951 
+"Cubic diamond (1st neighbor)" 1465 
+"Cubic diamond (2nd neighbor)" 650 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7960 
+"Cubic diamond" 5937 
+"Cubic diamond (1st neighbor)" 1449 
+"Cubic diamond (2nd neighbor)" 654 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7963 
+"Cubic diamond" 5946 
+"Cubic diamond (1st neighbor)" 1437 
+"Cubic diamond (2nd neighbor)" 654 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7944 
+"Cubic diamond" 5971 
+"Cubic diamond (1st neighbor)" 1426 
+"Cubic diamond (2nd neighbor)" 659 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7949 
+"Cubic diamond" 5988 
+"Cubic diamond (1st neighbor)" 1421 
+"Cubic diamond (2nd neighbor)" 642 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7907 
+"Cubic diamond" 5999 
+"Cubic diamond (1st neighbor)" 1439 
+"Cubic diamond (2nd neighbor)" 655 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7926 
+"Cubic diamond" 5971 
+"Cubic diamond (1st neighbor)" 1443 
+"Cubic diamond (2nd neighbor)" 660 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7948 
+"Cubic diamond" 5964 
+"Cubic diamond (1st neighbor)" 1434 
+"Cubic diamond (2nd neighbor)" 654 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7920 
+"Cubic diamond" 5976 
+"Cubic diamond (1st neighbor)" 1440 
+"Cubic diamond (2nd neighbor)" 664 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7934 
+"Cubic diamond" 5964 
+"Cubic diamond (1st neighbor)" 1437 
+"Cubic diamond (2nd neighbor)" 665 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7901 
+"Cubic diamond" 6011 
+"Cubic diamond (1st neighbor)" 1430 
+"Cubic diamond (2nd neighbor)" 658 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7922 
+"Cubic diamond" 6010 
+"Cubic diamond (1st neighbor)" 1423 
+"Cubic diamond (2nd neighbor)" 645 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7951 
+"Cubic diamond" 6007 
+"Cubic diamond (1st neighbor)" 1403 
+"Cubic diamond (2nd neighbor)" 639 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7920 
+"Cubic diamond" 6056 
+"Cubic diamond (1st neighbor)" 1390 
+"Cubic diamond (2nd neighbor)" 634 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7918 
+"Cubic diamond" 6071 
+"Cubic diamond (1st neighbor)" 1381 
+"Cubic diamond (2nd neighbor)" 630 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7941 
+"Cubic diamond" 6038 
+"Cubic diamond (1st neighbor)" 1392 
+"Cubic diamond (2nd neighbor)" 629 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7882 
+"Cubic diamond" 6071 
+"Cubic diamond (1st neighbor)" 1410 
+"Cubic diamond (2nd neighbor)" 637 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7881 
+"Cubic diamond" 6047 
+"Cubic diamond (1st neighbor)" 1421 
+"Cubic diamond (2nd neighbor)" 651 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7861 
+"Cubic diamond" 6059 
+"Cubic diamond (1st neighbor)" 1411 
+"Cubic diamond (2nd neighbor)" 669 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7870 
+"Cubic diamond" 6064 
+"Cubic diamond (1st neighbor)" 1424 
+"Cubic diamond (2nd neighbor)" 642 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7885 
+"Cubic diamond" 6073 
+"Cubic diamond (1st neighbor)" 1396 
+"Cubic diamond (2nd neighbor)" 646 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7883 
+"Cubic diamond" 6032 
+"Cubic diamond (1st neighbor)" 1429 
+"Cubic diamond (2nd neighbor)" 656 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7923 
+"Cubic diamond" 6049 
+"Cubic diamond (1st neighbor)" 1402 
+"Cubic diamond (2nd neighbor)" 626 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7895 
+"Cubic diamond" 6104 
+"Cubic diamond (1st neighbor)" 1384 
+"Cubic diamond (2nd neighbor)" 617 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7897 
+"Cubic diamond" 6085 
+"Cubic diamond (1st neighbor)" 1398 
+"Cubic diamond (2nd neighbor)" 620 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7888 
+"Cubic diamond" 6094 
+"Cubic diamond (1st neighbor)" 1389 
+"Cubic diamond (2nd neighbor)" 629 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7820 
+"Cubic diamond" 6146 
+"Cubic diamond (1st neighbor)" 1399 
+"Cubic diamond (2nd neighbor)" 635 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7818 
+"Cubic diamond" 6186 
+"Cubic diamond (1st neighbor)" 1373 
+"Cubic diamond (2nd neighbor)" 623 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7815 
+"Cubic diamond" 6135 
+"Cubic diamond (1st neighbor)" 1401 
+"Cubic diamond (2nd neighbor)" 649 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7858 
+"Cubic diamond" 6139 
+"Cubic diamond (1st neighbor)" 1369 
+"Cubic diamond (2nd neighbor)" 634 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7851 
+"Cubic diamond" 6123 
+"Cubic diamond (1st neighbor)" 1392 
+"Cubic diamond (2nd neighbor)" 634 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7835 
+"Cubic diamond" 6163 
+"Cubic diamond (1st neighbor)" 1382 
+"Cubic diamond (2nd neighbor)" 620 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7812 
+"Cubic diamond" 6163 
+"Cubic diamond (1st neighbor)" 1390 
+"Cubic diamond (2nd neighbor)" 635 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7872 
+"Cubic diamond" 6139 
+"Cubic diamond (1st neighbor)" 1365 
+"Cubic diamond (2nd neighbor)" 624 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7819 
+"Cubic diamond" 6145 
+"Cubic diamond (1st neighbor)" 1395 
+"Cubic diamond (2nd neighbor)" 641 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7816 
+"Cubic diamond" 6139 
+"Cubic diamond (1st neighbor)" 1395 
+"Cubic diamond (2nd neighbor)" 650 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7831 
+"Cubic diamond" 6140 
+"Cubic diamond (1st neighbor)" 1384 
+"Cubic diamond (2nd neighbor)" 635 
+"Hexagonal diamond" 1 
+"Hexagonal diamond (1st neighbor)" 3 
+"Hexagonal diamond (2nd neighbor)" 6 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7815 
+"Cubic diamond" 6165 
+"Cubic diamond (1st neighbor)" 1380 
+"Cubic diamond (2nd neighbor)" 640 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7778 
+"Cubic diamond" 6186 
+"Cubic diamond (1st neighbor)" 1388 
+"Cubic diamond (2nd neighbor)" 648 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7749 
+"Cubic diamond" 6199 
+"Cubic diamond (1st neighbor)" 1402 
+"Cubic diamond (2nd neighbor)" 650 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7760 
+"Cubic diamond" 6181 
+"Cubic diamond (1st neighbor)" 1407 
+"Cubic diamond (2nd neighbor)" 652 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7750 
+"Cubic diamond" 6185 
+"Cubic diamond (1st neighbor)" 1413 
+"Cubic diamond (2nd neighbor)" 652 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7732 
+"Cubic diamond" 6225 
+"Cubic diamond (1st neighbor)" 1386 
+"Cubic diamond (2nd neighbor)" 647 
+"Hexagonal diamond" 1 
+"Hexagonal diamond (1st neighbor)" 3 
+"Hexagonal diamond (2nd neighbor)" 6 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7711 
+"Cubic diamond" 6238 
+"Cubic diamond (1st neighbor)" 1406 
+"Cubic diamond (2nd neighbor)" 645 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7746 
+"Cubic diamond" 6209 
+"Cubic diamond (1st neighbor)" 1405 
+"Cubic diamond (2nd neighbor)" 640 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7762 
+"Cubic diamond" 6215 
+"Cubic diamond (1st neighbor)" 1386 
+"Cubic diamond (2nd neighbor)" 637 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7698 
+"Cubic diamond" 6226 
+"Cubic diamond (1st neighbor)" 1415 
+"Cubic diamond (2nd neighbor)" 661 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7746 
+"Cubic diamond" 6188 
+"Cubic diamond (1st neighbor)" 1416 
+"Cubic diamond (2nd neighbor)" 650 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7731 
+"Cubic diamond" 6207 
+"Cubic diamond (1st neighbor)" 1412 
+"Cubic diamond (2nd neighbor)" 650 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7764 
+"Cubic diamond" 6198 
+"Cubic diamond (1st neighbor)" 1390 
+"Cubic diamond (2nd neighbor)" 648 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7704 
+"Cubic diamond" 6225 
+"Cubic diamond (1st neighbor)" 1417 
+"Cubic diamond (2nd neighbor)" 654 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7672 
+"Cubic diamond" 6257 
+"Cubic diamond (1st neighbor)" 1416 
+"Cubic diamond (2nd neighbor)" 655 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7686 
+"Cubic diamond" 6245 
+"Cubic diamond (1st neighbor)" 1420 
+"Cubic diamond (2nd neighbor)" 649 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7598 
+"Cubic diamond" 6289 
+"Cubic diamond (1st neighbor)" 1446 
+"Cubic diamond (2nd neighbor)" 667 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7676 
+"Cubic diamond" 6228 
+"Cubic diamond (1st neighbor)" 1426 
+"Cubic diamond (2nd neighbor)" 670 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7587 
+"Cubic diamond" 6310 
+"Cubic diamond (1st neighbor)" 1423 
+"Cubic diamond (2nd neighbor)" 680 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7557 
+"Cubic diamond" 6340 
+"Cubic diamond (1st neighbor)" 1437 
+"Cubic diamond (2nd neighbor)" 666 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7550 
+"Cubic diamond" 6337 
+"Cubic diamond (1st neighbor)" 1443 
+"Cubic diamond (2nd neighbor)" 670 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7474 
+"Cubic diamond" 6408 
+"Cubic diamond (1st neighbor)" 1445 
+"Cubic diamond (2nd neighbor)" 673 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7463 
+"Cubic diamond" 6409 
+"Cubic diamond (1st neighbor)" 1450 
+"Cubic diamond (2nd neighbor)" 678 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7473 
+"Cubic diamond" 6409 
+"Cubic diamond (1st neighbor)" 1446 
+"Cubic diamond (2nd neighbor)" 672 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7429 
+"Cubic diamond" 6429 
+"Cubic diamond (1st neighbor)" 1463 
+"Cubic diamond (2nd neighbor)" 679 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7339 
+"Cubic diamond" 6497 
+"Cubic diamond (1st neighbor)" 1489 
+"Cubic diamond (2nd neighbor)" 667 
+"Hexagonal diamond" 1 
+"Hexagonal diamond (1st neighbor)" 2 
+"Hexagonal diamond (2nd neighbor)" 5 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7343 
+"Cubic diamond" 6512 
+"Cubic diamond (1st neighbor)" 1473 
+"Cubic diamond (2nd neighbor)" 672 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7352 
+"Cubic diamond" 6484 
+"Cubic diamond (1st neighbor)" 1487 
+"Cubic diamond (2nd neighbor)" 677 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7362 
+"Cubic diamond" 6484 
+"Cubic diamond (1st neighbor)" 1465 
+"Cubic diamond (2nd neighbor)" 689 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7290 
+"Cubic diamond" 6535 
+"Cubic diamond (1st neighbor)" 1494 
+"Cubic diamond (2nd neighbor)" 681 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
+# Structure counts (7 data points):
+# "Structure type" Count
+Other 7222 
+"Cubic diamond" 6587 
+"Cubic diamond (1st neighbor)" 1503 
+"Cubic diamond (2nd neighbor)" 688 
+"Hexagonal diamond" 0 
+"Hexagonal diamond (1st neighbor)" 0 
+"Hexagonal diamond (2nd neighbor)" 0 
