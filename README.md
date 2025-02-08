@@ -11,6 +11,8 @@ conda env create -f environment.yml
 
 Then a conda env named `sic` will be created. 
 
+The spatial correlation calculation was computed from voxel density, which is obtained from ParaView. We have uploaded all the generated .vtk files.
+
 ## Files
 
 `Plot.ipynb`: the notebook for making figures in the manuscript.
