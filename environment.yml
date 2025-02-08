@@ -1,0 +1,14 @@
+name: sic
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ase
+  - numpy
+  - ovito
+  - matplotlib
+  - jupyter
+  - pip
+  - pip:
+    - lammps-logfile
