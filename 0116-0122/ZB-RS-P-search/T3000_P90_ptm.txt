@@ -1,0 +1,88 @@
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 5064 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 1458 
+"Cubic diamond" 1478 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 4096 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 2487 
+"Cubic diamond" 1417 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 3729 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 3480 
+"Cubic diamond" 791 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 3574 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 4138 
+"Cubic diamond" 288 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 3241 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 4698 
+"Cubic diamond" 61 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 2951 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 5034 
+"Cubic diamond" 15 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 2812 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 5186 
+"Cubic diamond" 2 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 2650 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 5350 
+"Cubic diamond" 0 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 2565 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 5435 
+"Cubic diamond" 0 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 2514 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 5486 
+"Cubic diamond" 0 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 2372 
+FCC 0 
+HCP 0 
+BCC 0 
+"Simple cubic" 5628 
+"Cubic diamond" 0 
