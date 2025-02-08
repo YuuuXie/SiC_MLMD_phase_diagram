@@ -1,0 +1,79 @@
+
+atom_style atomic
+units metal
+boundary p p p
+#atom_modify sort 0 0.0
+newton on
+
+read_data data_RS.lammps
+Reading data file ...
+  orthogonal box = (0.0000000 0.0000000 0.0000000) to (3.8900000 3.8900000 3.8900000)
+  3 by 2 by 3 MPI processor grid
+  reading atoms ...
+  8 atoms
+  read_data CPU = 0.017 seconds
+replicate 10 10 20
+Replicating atoms ...
+  orthogonal box = (0.0000000 0.0000000 0.0000000) to (38.900000 38.900000 77.800000)
+  2 by 3 by 3 MPI processor grid
+  16000 atoms
+  replicate CPU = 0.002 seconds
+
+### interactions
+
+pair_style flare
+pair_coeff * * lmp.flare
+Reading potential file lmp.flare with DATE: Thu
+
+compute unc all flare/std/atom L_inv_lmp.flare sparse_desc_lmp.flare
+Reading potential file L_inv_lmp.flare with DATE: Thu
+Reading potential file sparse_desc_lmp.flare with DATE: Thu
+compute MaxUnc all reduce max c_unc
+
+mass 1 12.011000
+mass 2 28.085000
+
+thermo_style custom step c_MaxUnc
+thermo 1000
+timestep 0.0005
+
+dump 1 all custom 1 P${P}_T${T}_RS_rerun.txt id type x y z c_unc
+dump 1 all custom 1 P900000_T${T}_RS_rerun.txt id type x y z c_unc
+dump 1 all custom 1 P900000_T4600_RS_rerun.txt id type x y z c_unc
+rerun P${P}_T${T}_RS_4nph.txt dump x y z
+rerun P900000_T${T}_RS_4nph.txt dump x y z
+rerun P900000_T4600_RS_4nph.txt dump x y z
+WARNING: No fixes defined, atoms won't move (src/verlet.cpp:55)
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 6
+  ghost atom cutoff = 6
+  binsize = 3, bins = 13 13 26
+  2 neighbor lists, perpetual/occasional/extra = 1 1 0
+  (1) pair flare, perpetual
+      attributes: full, newton on
+      pair build: full/bin/atomonly
+      stencil: full/bin/3d
+      bin: standard
+  (2) compute flare/std/atom, occasional, copy from (1)
+      attributes: full, newton on
+      pair build: copy
+      stencil: none
+      bin: none
+Per MPI rank memory allocation (min/avg/max) = 209.1 | 209.8 | 209.9 Mbytes
+Step c_MaxUnc 
+ 3000000  0.004180958 
+ 3100000 0.0039399671 
+ 3200000 0.0044926621 
+ 3300000 0.0056175862 
+ 3400000 0.0045970954 
+ 3500000 0.0039052696 
+ 3600000 0.0046778028 
+ 3700000 0.0051438437 
+ 3800000 0.0045707114 
+ 3900000  0.004660455 
+ 4000000 0.0040537535 
+Loop time of 4595.21 on 18 procs for 11 steps with 16000 atoms
+
+Total wall time: 1:17:18

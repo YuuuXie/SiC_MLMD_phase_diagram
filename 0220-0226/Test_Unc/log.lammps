@@ -1,0 +1,4 @@
+LAMMPS (29 Sep 2021 - Update 3)
+log log.P$P_T$T_RS
+log log.P900000_T$T_RS
+log log.P900000_T4800_RS

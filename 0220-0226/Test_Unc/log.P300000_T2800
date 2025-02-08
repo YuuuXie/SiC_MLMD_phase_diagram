@@ -1,0 +1,79 @@
+
+atom_style atomic
+units metal
+boundary p p p
+#atom_modify sort 0 0.0
+newton on
+
+read_data data.lammps
+Reading data file ...
+  orthogonal box = (0.0000000 0.0000000 0.0000000) to (4.3790145 4.3790145 4.3790145)
+  2 by 3 by 3 MPI processor grid
+  reading atoms ...
+  8 atoms
+  read_data CPU = 0.014 seconds
+replicate 10 10 20
+Replicating atoms ...
+  orthogonal box = (0.0000000 0.0000000 0.0000000) to (43.790145 43.790145 87.580290)
+  2 by 3 by 3 MPI processor grid
+  16000 atoms
+  replicate CPU = 0.002 seconds
+
+### interactions
+
+pair_style flare
+pair_coeff * * lmp.flare
+Reading potential file lmp.flare with DATE: Thu
+
+compute unc all flare/std/atom L_inv_lmp.flare sparse_desc_lmp.flare
+Reading potential file L_inv_lmp.flare with DATE: Thu
+Reading potential file sparse_desc_lmp.flare with DATE: Thu
+compute MaxUnc all reduce max c_unc
+
+mass 1 12.011000
+mass 2 28.085000
+
+thermo_style custom step c_MaxUnc
+thermo 1000
+timestep 0.0005
+
+dump 1 all custom 1 P${P}_T${T}_rerun.txt id type x y z c_unc
+dump 1 all custom 1 P300000_T${T}_rerun.txt id type x y z c_unc
+dump 1 all custom 1 P300000_T2800_rerun.txt id type x y z c_unc
+rerun P${P}_T${T}_4nph.txt dump x y z
+rerun P300000_T${T}_4nph.txt dump x y z
+rerun P300000_T2800_4nph.txt dump x y z
+WARNING: No fixes defined, atoms won't move (src/verlet.cpp:55)
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 6
+  ghost atom cutoff = 6
+  binsize = 3, bins = 15 15 30
+  2 neighbor lists, perpetual/occasional/extra = 1 1 0
+  (1) pair flare, perpetual
+      attributes: full, newton on
+      pair build: full/bin/atomonly
+      stencil: full/bin/3d
+      bin: standard
+  (2) compute flare/std/atom, occasional, copy from (1)
+      attributes: full, newton on
+      pair build: copy
+      stencil: none
+      bin: none
+Per MPI rank memory allocation (min/avg/max) = 209.1 | 209.1 | 209.1 Mbytes
+Step c_MaxUnc 
+ 3000000 0.0029815008 
+ 3100000 0.0037779558 
+ 3200000 0.0037638952 
+ 3300000 0.0045554153 
+ 3400000 0.0032095037 
+ 3500000 0.0032354319 
+ 3600000 0.0034324302 
+ 3700000 0.0034452292 
+ 3800000 0.0034390221 
+ 3900000  0.002778374 
+ 4000000 0.0041184687 
+Loop time of 4435.06 on 18 procs for 11 steps with 16000 atoms
+
+Total wall time: 1:14:37
