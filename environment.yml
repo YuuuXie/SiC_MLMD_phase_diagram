@@ -9,6 +9,7 @@ dependencies:
   - ovito
   - matplotlib
   - jupyter
+  - ipykernel
   - pip
   - pip:
     - lammps-logfile
