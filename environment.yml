@@ -4,11 +4,12 @@ channels:
   - defaults
 dependencies:
   - python=3.9
-  - ase
+  - ase=3.23.0
   - numpy
   - ovito
   - matplotlib
   - jupyter
+  - ipykernel
   - pip
   - pip:
     - lammps-logfile

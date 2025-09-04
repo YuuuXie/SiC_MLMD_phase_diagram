@@ -10,7 +10,17 @@ You will need the dependencies specified in `environment.yml`. You can create a 
 conda env create -f environment.yml
 ```
 
-Then a conda env named `sic` will be created. 
+Then a conda env named `sic` will be created. To add the environment to the Kernel of your Jupyter Notebook, run
+
+```bash
+python -m ipykernel install --user --name sic --display-name "SiC"
+```
+
+To check whether the kernel is installed successfully, run
+
+```bash
+jupyter kernelspec list
+```
 
 The spatial correlation calculation was computed from voxel density, which is obtained from ParaView. We have uploaded all the generated .vtk files.
 
