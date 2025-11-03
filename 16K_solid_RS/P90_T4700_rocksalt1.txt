@@ -1,0 +1,404 @@
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 0 
+"Simple cubic" 16000 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 301 
+"Simple cubic" 15699 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 327 
+"Simple cubic" 15673 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 415 
+"Simple cubic" 15585 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 326 
+"Simple cubic" 15674 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 297 
+"Simple cubic" 15703 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 320 
+"Simple cubic" 15680 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 349 
+"Simple cubic" 15651 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 308 
+"Simple cubic" 15692 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 310 
+"Simple cubic" 15690 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 318 
+"Simple cubic" 15682 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 296 
+"Simple cubic" 15704 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 354 
+"Simple cubic" 15646 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 298 
+"Simple cubic" 15702 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 292 
+"Simple cubic" 15708 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 323 
+"Simple cubic" 15677 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 281 
+"Simple cubic" 15719 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 326 
+"Simple cubic" 15674 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 319 
+"Simple cubic" 15681 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 355 
+"Simple cubic" 15645 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 399 
+"Simple cubic" 15601 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 347 
+"Simple cubic" 15653 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 358 
+"Simple cubic" 15642 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 396 
+"Simple cubic" 15604 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 381 
+"Simple cubic" 15619 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 334 
+"Simple cubic" 15666 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 342 
+"Simple cubic" 15658 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 377 
+"Simple cubic" 15623 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 382 
+"Simple cubic" 15618 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 390 
+"Simple cubic" 15610 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 382 
+"Simple cubic" 15618 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 359 
+"Simple cubic" 15641 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 416 
+"Simple cubic" 15584 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 404 
+"Simple cubic" 15596 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 413 
+"Simple cubic" 15587 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 419 
+"Simple cubic" 15581 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 379 
+"Simple cubic" 15621 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 367 
+"Simple cubic" 15633 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 459 
+"Simple cubic" 15541 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 418 
+"Simple cubic" 15582 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 412 
+"Simple cubic" 15588 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 368 
+"Simple cubic" 15632 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 440 
+"Simple cubic" 15560 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 418 
+"Simple cubic" 15582 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 403 
+"Simple cubic" 15597 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 431 
+"Simple cubic" 15569 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 409 
+"Simple cubic" 15591 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 453 
+"Simple cubic" 15547 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 461 
+"Simple cubic" 15539 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 462 
+"Simple cubic" 15538 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 407 
+"Simple cubic" 15593 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 436 
+"Simple cubic" 15564 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 393 
+"Simple cubic" 15607 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 370 
+"Simple cubic" 15630 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 417 
+"Simple cubic" 15583 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 386 
+"Simple cubic" 15614 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 418 
+"Simple cubic" 15582 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 395 
+"Simple cubic" 15605 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 412 
+"Simple cubic" 15588 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 365 
+"Simple cubic" 15635 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 379 
+"Simple cubic" 15621 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 457 
+"Simple cubic" 15543 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 384 
+"Simple cubic" 15616 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 399 
+"Simple cubic" 15601 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 355 
+"Simple cubic" 15645 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 386 
+"Simple cubic" 15614 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 413 
+"Simple cubic" 15587 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 435 
+"Simple cubic" 15565 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 461 
+"Simple cubic" 15539 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 391 
+"Simple cubic" 15609 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 396 
+"Simple cubic" 15604 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 344 
+"Simple cubic" 15656 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 341 
+"Simple cubic" 15659 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 365 
+"Simple cubic" 15635 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 368 
+"Simple cubic" 15632 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 403 
+"Simple cubic" 15597 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 354 
+"Simple cubic" 15646 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 457 
+"Simple cubic" 15543 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 364 
+"Simple cubic" 15636 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 421 
+"Simple cubic" 15579 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 391 
+"Simple cubic" 15609 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 377 
+"Simple cubic" 15623 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 421 
+"Simple cubic" 15579 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 391 
+"Simple cubic" 15609 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 392 
+"Simple cubic" 15608 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 374 
+"Simple cubic" 15626 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 399 
+"Simple cubic" 15601 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 394 
+"Simple cubic" 15606 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 405 
+"Simple cubic" 15595 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 344 
+"Simple cubic" 15656 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 370 
+"Simple cubic" 15630 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 401 
+"Simple cubic" 15599 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 397 
+"Simple cubic" 15603 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 423 
+"Simple cubic" 15577 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 342 
+"Simple cubic" 15658 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 344 
+"Simple cubic" 15656 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 398 
+"Simple cubic" 15602 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 440 
+"Simple cubic" 15560 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 396 
+"Simple cubic" 15604 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 458 
+"Simple cubic" 15542 
+# Structure counts (9 data points):
+# "Structure type" Count
+Other 436 
+"Simple cubic" 15564 

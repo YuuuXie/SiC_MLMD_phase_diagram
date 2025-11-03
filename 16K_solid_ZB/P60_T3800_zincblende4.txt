@@ -1,0 +1,404 @@
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 6257 
+"Cubic Diamond Outside Carbon Clusters" 6257 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5866 
+"Cubic Diamond Outside Carbon Clusters" 5866 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5627 
+"Cubic Diamond Outside Carbon Clusters" 5627 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5432 
+"Cubic Diamond Outside Carbon Clusters" 5432 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5340 
+"Cubic Diamond Outside Carbon Clusters" 5340 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5333 
+"Cubic Diamond Outside Carbon Clusters" 5333 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5313 
+"Cubic Diamond Outside Carbon Clusters" 5313 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5418 
+"Cubic Diamond Outside Carbon Clusters" 5418 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5333 
+"Cubic Diamond Outside Carbon Clusters" 5333 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5455 
+"Cubic Diamond Outside Carbon Clusters" 5455 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5377 
+"Cubic Diamond Outside Carbon Clusters" 5377 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5353 
+"Cubic Diamond Outside Carbon Clusters" 5353 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5280 
+"Cubic Diamond Outside Carbon Clusters" 5280 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5262 
+"Cubic Diamond Outside Carbon Clusters" 5262 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5165 
+"Cubic Diamond Outside Carbon Clusters" 5165 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5223 
+"Cubic Diamond Outside Carbon Clusters" 5223 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5386 
+"Cubic Diamond Outside Carbon Clusters" 5386 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5344 
+"Cubic Diamond Outside Carbon Clusters" 5344 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5339 
+"Cubic Diamond Outside Carbon Clusters" 5339 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5216 
+"Cubic Diamond Outside Carbon Clusters" 5216 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5165 
+"Cubic Diamond Outside Carbon Clusters" 5165 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5135 
+"Cubic Diamond Outside Carbon Clusters" 5135 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5248 
+"Cubic Diamond Outside Carbon Clusters" 5248 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5187 
+"Cubic Diamond Outside Carbon Clusters" 5187 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5125 
+"Cubic Diamond Outside Carbon Clusters" 5125 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5156 
+"Cubic Diamond Outside Carbon Clusters" 5156 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5154 
+"Cubic Diamond Outside Carbon Clusters" 5154 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5233 
+"Cubic Diamond Outside Carbon Clusters" 5233 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5129 
+"Cubic Diamond Outside Carbon Clusters" 5129 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5252 
+"Cubic Diamond Outside Carbon Clusters" 5252 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5367 
+"Cubic Diamond Outside Carbon Clusters" 5367 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5243 
+"Cubic Diamond Outside Carbon Clusters" 5243 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5372 
+"Cubic Diamond Outside Carbon Clusters" 5372 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5255 
+"Cubic Diamond Outside Carbon Clusters" 5255 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5184 
+"Cubic Diamond Outside Carbon Clusters" 5184 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5322 
+"Cubic Diamond Outside Carbon Clusters" 5322 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5418 
+"Cubic Diamond Outside Carbon Clusters" 5416 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5443 
+"Cubic Diamond Outside Carbon Clusters" 5443 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5440 
+"Cubic Diamond Outside Carbon Clusters" 5440 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5355 
+"Cubic Diamond Outside Carbon Clusters" 5355 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5302 
+"Cubic Diamond Outside Carbon Clusters" 5302 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5292 
+"Cubic Diamond Outside Carbon Clusters" 5292 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5266 
+"Cubic Diamond Outside Carbon Clusters" 5266 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5204 
+"Cubic Diamond Outside Carbon Clusters" 5204 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5278 
+"Cubic Diamond Outside Carbon Clusters" 5278 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5243 
+"Cubic Diamond Outside Carbon Clusters" 5243 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5262 
+"Cubic Diamond Outside Carbon Clusters" 5262 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5334 
+"Cubic Diamond Outside Carbon Clusters" 5334 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5323 
+"Cubic Diamond Outside Carbon Clusters" 5323 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5185 
+"Cubic Diamond Outside Carbon Clusters" 5185 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5235 
+"Cubic Diamond Outside Carbon Clusters" 5235 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5308 
+"Cubic Diamond Outside Carbon Clusters" 5308 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5399 
+"Cubic Diamond Outside Carbon Clusters" 5399 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5440 
+"Cubic Diamond Outside Carbon Clusters" 5440 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5269 
+"Cubic Diamond Outside Carbon Clusters" 5269 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5389 
+"Cubic Diamond Outside Carbon Clusters" 5389 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5434 
+"Cubic Diamond Outside Carbon Clusters" 5434 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5242 
+"Cubic Diamond Outside Carbon Clusters" 5242 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5295 
+"Cubic Diamond Outside Carbon Clusters" 5295 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5164 
+"Cubic Diamond Outside Carbon Clusters" 5164 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5249 
+"Cubic Diamond Outside Carbon Clusters" 5249 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5189 
+"Cubic Diamond Outside Carbon Clusters" 5189 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5240 
+"Cubic Diamond Outside Carbon Clusters" 5240 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5336 
+"Cubic Diamond Outside Carbon Clusters" 5336 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5385 
+"Cubic Diamond Outside Carbon Clusters" 5385 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5409 
+"Cubic Diamond Outside Carbon Clusters" 5409 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5371 
+"Cubic Diamond Outside Carbon Clusters" 5371 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5307 
+"Cubic Diamond Outside Carbon Clusters" 5307 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5278 
+"Cubic Diamond Outside Carbon Clusters" 5278 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5186 
+"Cubic Diamond Outside Carbon Clusters" 5186 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5272 
+"Cubic Diamond Outside Carbon Clusters" 5272 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5297 
+"Cubic Diamond Outside Carbon Clusters" 5297 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5249 
+"Cubic Diamond Outside Carbon Clusters" 5249 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5189 
+"Cubic Diamond Outside Carbon Clusters" 5189 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5199 
+"Cubic Diamond Outside Carbon Clusters" 5199 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5152 
+"Cubic Diamond Outside Carbon Clusters" 5151 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5290 
+"Cubic Diamond Outside Carbon Clusters" 5290 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5097 
+"Cubic Diamond Outside Carbon Clusters" 5096 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5239 
+"Cubic Diamond Outside Carbon Clusters" 5239 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5204 
+"Cubic Diamond Outside Carbon Clusters" 5204 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5314 
+"Cubic Diamond Outside Carbon Clusters" 5314 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5316 
+"Cubic Diamond Outside Carbon Clusters" 5316 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5274 
+"Cubic Diamond Outside Carbon Clusters" 5274 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5175 
+"Cubic Diamond Outside Carbon Clusters" 5175 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5340 
+"Cubic Diamond Outside Carbon Clusters" 5340 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5356 
+"Cubic Diamond Outside Carbon Clusters" 5356 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5381 
+"Cubic Diamond Outside Carbon Clusters" 5381 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5450 
+"Cubic Diamond Outside Carbon Clusters" 5450 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5397 
+"Cubic Diamond Outside Carbon Clusters" 5397 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5312 
+"Cubic Diamond Outside Carbon Clusters" 5312 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5250 
+"Cubic Diamond Outside Carbon Clusters" 5250 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5400 
+"Cubic Diamond Outside Carbon Clusters" 5400 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5355 
+"Cubic Diamond Outside Carbon Clusters" 5355 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5402 
+"Cubic Diamond Outside Carbon Clusters" 5402 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5347 
+"Cubic Diamond Outside Carbon Clusters" 5347 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5370 
+"Cubic Diamond Outside Carbon Clusters" 5370 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5431 
+"Cubic Diamond Outside Carbon Clusters" 5431 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5446 
+"Cubic Diamond Outside Carbon Clusters" 5444 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5383 
+"Cubic Diamond Outside Carbon Clusters" 5383 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5291 
+"Cubic Diamond Outside Carbon Clusters" 5291 
+# Count Diamond-like Atoms Outside Carbon Clusters (2 data points):
+# "Structure Type" Count
+"Cubic Diamond" 5405 
+"Cubic Diamond Outside Carbon Clusters" 5404 
