@@ -81,7 +81,6 @@ python check_diamond_in_C_clusters.py
 ```
 and it will read from `0123-0129/512k_atoms_cool/P{pressure}/` folders. The output will be printed in the terminal.
 
-
 ## Gas Phase Simulations
 
 Gas phase simulations are performed to study the behavior of SiC at low pressures and high temperatures.
@@ -91,4 +90,11 @@ Gas phase simulations are performed to study the behavior of SiC at low pressure
 	- `plot_volume.py`: Script to plot the volume of the system across varied pressures and temperatures.
 	- `gas_phase_logs/`: LAMMPS log files.
 
+## Validation of ML Force Field (MLFF) with DFT Calculations
 
+- `validation_DFT/`: Contains scripts and data for validating the MLFF against DFT calculations.
+	- `plot.py`: Script to plot enthalpy vs pressure comparing FLARE and DFT results.
+	- `bulk_modulus.py`: Module containing functions for bulk modulus calculations.
+	- `DFT/`: Directory containing DFT calculation results and scripts.
+	- `flare_enthalpy.py`: Script to calculate enthalpy vs pressure using the FLARE potential in LAMMPS (requires downloading uncertainty files and has LAMMPS paired with FLARE).
+	
