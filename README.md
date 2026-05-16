@@ -30,6 +30,17 @@ The spatial correlation calculation was computed from voxel density, which is ob
 
 `lmp.flare`: the MLFF coefficient file used by LAMMPS to run MD simulations.
 
+`2023_SiC_paper_patched_lammps_plugins/`: patched FLARE LAMMPS plugin set
+required to compile a LAMMPS binary that can read the older **B1+B2
+multi-kernel** `lmp.flare` potential used in the 2023 SiC paper
+(Zenodo [10.5281/zenodo.5797177](https://zenodo.org/records/5797177)). The
+plugin set on that Zenodo record cannot be compiled directly — this folder
+contains a working drop-in replacement, plus a SiC validation example (ZB
+and RS phases relaxed and run in NPT MD at 0–200 GPa). See its own
+`README.md` for the build recipe and dependency versions. Note: the
+`lmp.flare` file at the root of this repo is a different (single-kernel B2)
+potential and works with current FLARE/LAMMPS without this patch.
+
 ## Plotting Solid-Decomposed Phase Coexistence MLMD Results
 
 To reproduce two-phase analysis plots for SiC simulations, use `plot_two_phase.py`:

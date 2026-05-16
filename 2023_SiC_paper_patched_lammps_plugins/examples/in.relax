@@ -1,0 +1,19 @@
+units           metal
+atom_style      atomic
+boundary        p p p
+read_data       ${data_file}
+
+mass            1 28.0855
+mass            2 12.011
+
+pair_style      flare
+pair_coeff      * * ${potential}
+
+fix             1 all box/relax iso ${pbar} vmax 0.001
+thermo_style    custom step pe press lx ly lz vol
+thermo          50
+
+min_style       cg
+minimize        1.0e-10 1.0e-12 5000 50000
+
+print           "FINAL ${out_label} pe=$(pe) press=$(press) lx=$(lx) ly=$(ly) lz=$(lz) vol=$(vol)"
